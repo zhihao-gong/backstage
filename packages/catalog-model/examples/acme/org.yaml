@@ -1,7 +1,7 @@
 apiVersion: backstage.io/v1alpha1
 kind: Group
 metadata:
-  name: acme-corp
+  name: acme-corp-again
   description: The acme-corp organization
   links:
     - url: http://www.acme.com/
